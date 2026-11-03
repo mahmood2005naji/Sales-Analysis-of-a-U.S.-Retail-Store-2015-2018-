@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34317771/README.md)
+(https://github.com/user-attachments/files/34317771/README.md)
 # Sales Analysis of a U.S. Retail Store (2015–2018)
 
 A three-page Tableau dashboard and case study analysing four years of sales for a U.S. retail store.
