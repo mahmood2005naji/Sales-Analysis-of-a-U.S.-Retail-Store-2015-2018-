@@ -1,4 +1,4 @@
-[README-3.md](https://github.com/user-attachments/files/34316856/README-3.md)
+[README.md](https://github.com/user-attachments/files/34317771/README.md)
 # Sales Analysis of a U.S. Retail Store (2015–2018)
 
 A three-page Tableau dashboard and case study analysing four years of sales for a U.S. retail store.
@@ -71,6 +71,7 @@ The only metric is **Sales**, so every chart shows revenue, not profit. The data
 | `Data description.png` | Dashboard page 1: data description |
 | `Sales Oveerview.png` | Dashboard page 2: sales overview |
 | `Profitability&Customers.png` | Dashboard page 3: profitability and customers |
+| `train.csv` | Source dataset (9,800 order lines, 2015–2018) |
 | `README.md` | This file |
 
 ## How to open
